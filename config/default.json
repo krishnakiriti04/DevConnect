@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://mentor_admin:mentor_password@cluster0.5ktqd.mongodb.net/devconnect?retryWrites=true&w=majority"
+}
