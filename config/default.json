@@ -1,4 +1,6 @@
 {
     "mongoURI": "mongodb+srv://mentor_admin:mentor_password@cluster0.5ktqd.mongodb.net/devconnect?retryWrites=true&w=majority",
-    "jwtSecret": "SecretKey"
+    "jwtSecret": "SecretKey",
+    "githubClientId": "e3bca278edc955b5316f",
+    "githubSecret": "3245365ea7db0d4f023221515a87b905195d8afc"
 }
